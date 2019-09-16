@@ -3,7 +3,7 @@ window.onload = function () {
         var date = new this.Date();
         var now = date.getTime();
         console.log(now);
-        var str = "2019/9/16 18:00:00";
+        var str = "2019/9/17 18:00:00";
         var endDate = new Date(str);
         var end = endDate.getTime();
         console.log(end);
