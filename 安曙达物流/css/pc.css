@@ -1,0 +1,293 @@
+.wangzhan{
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px 0;
+    text-align: center;
+    position: relative;
+}
+.come{
+    display: inline-block;
+    margin-left: -50%;
+}
+.nav{
+    padding:10px 0;
+}
+.wangzhan ul{
+    list-style: none;
+    position: absolute;
+    left: 45%;
+}
+.wangzhan ul li a{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    text-decoration: none;
+    color: #777777;
+    text-align: center;
+    font-size: 15px;
+}
+.wangzhan ul li:nth-of-type(1){
+    background-color: #2C77DE;
+}
+.wangzhan ul li{
+    width: 100px;
+    height: 50px;
+    float: left;
+    line-height: 50px;
+    margin-left: 5px;
+}
+.shou{
+    color: white;
+}
+.guanul{
+    width: 100%;
+    margin-top: -60px;
+    /* margin-left: 465px; */
+    position: absolute;
+}
+.lunbo{
+    width: 100%;   
+    overflow: hidden;
+}
+.lunbo .kao{
+    width: 100%;
+    overflow: hidden;
+}
+.owl-dots{
+    margin-top: -50px;
+    z-index: 999;
+}
+.owl-stage-outer{
+    z-index: -50;
+}
+.owl-nav .owl-prev{
+    width: 50px !important;
+    height: 100px !important;
+    display: block !important;
+    font-size: 50px !important;
+    line-height: 100px;
+    text-align: center !important;
+    position: absolute;
+    z-index: 99999;
+    top: 40%;
+    left: 0;
+    font-weight: bold;
+    background:rgba(0, 0, 0, 0) !important;
+}
+.owl-nav .owl-next{
+    width: 50px !important;
+    height: 100px !important;
+    display: block !important;
+    font-size: 50px !important;
+    line-height: 100px !important;
+    text-align: center;
+    position: absolute;
+    right: 0;
+    top: 40%;
+    font-weight: bold;
+    background:rgba(0, 0, 0, 0) !important;
+}
+.xia{
+    width: 40%;
+}
+.jie{
+    width: 40%;
+}
+.yunfei{
+    position: absolute;
+    top: 20px;
+    padding-left: 290px;
+    /* left: 50%; */
+    /* padding-left: 300px; */
+    /* padding-top: 20px; */
+}
+.diyi ul{
+    width:500px;
+    position: absolute;
+    left: 100px;
+    
+}
+.diyi ul li a{
+    color: white;
+    text-decoration: none;
+}
+.diyi ul li {
+    width: 23.333%;
+    margin-left: 30px;
+}
+.zixun{
+    width: 52%;
+    position: absolute;
+    top:109px;;
+    left: 60%;
+}
+.xun{
+    float: left;
+    /* width:  */
+    background-color: red;
+    display: inline-block;
+    padding:0 15px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 15px;
+    color: white; 
+}
+.wen{
+    float: right;
+    /* width:  */
+    display: inline-block;
+    padding:0 15px;
+    line-height: 40px;
+    font-size: 15px;
+    text-align: center;   
+}
+.diguo{
+    width: 50%;
+    margin-top: 13%;
+    background-color: white;
+    position: absolute;
+    left: 60%;
+    /* top: -3rem;; */
+}
+.diguo ul li{
+    list-style: none;
+    height: 50px;
+    padding-top: -10px;
+    font-size: 15px;
+    border-bottom: 1px dashed #ccc;
+}
+.diguo ul li p{
+    float: left;
+    padding-top: 20px;
+}
+.diguo ul li span{
+    float: right;
+    padding-top: 20px;
+}
+.nav{
+    width: 100%;
+    background-color: #FFFFFF;
+}
+.center{
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+.wangye{
+    width: 80%;
+    float: left;
+    /* margin-left: 10%; */
+    position: absolute;
+}
+.xia{
+    width: 30%;
+    /* padding-left: 5%; */
+    line-height: 60px;
+    /* margin-top: 5%; */
+    background-color: #CF2F04;
+    text-align: left;
+    font-size: 20px;
+    position: absolute;
+    left: 5%;
+    top: 20px;
+}
+.xia p{
+    position: relative;
+}
+.xia p::after{
+    content: "网上下单";
+    color: white;
+    margin-left: 5%;
+    /* padding-left: 5%; */
+}
+.xia p span::after{
+    content: "→";
+    position: absolute;
+    left: 80%;
+    font-size: 25px;
+    font-weight: bold;
+}
+.xia ul li{
+    width: 50%;
+    float: left;
+    list-style: none;
+}
+.xia ul li a{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background: #e5e5e5;
+    color: #666666;
+    text-decoration: none;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+}
+
+.jie{
+    width: 30%;
+    /* padding-left: 5%; */
+    line-height: 60px;
+    margin-top: 5%;
+    background-color: #0059D3;
+    text-align: left;
+    font-size: 20px;
+    position: absolute;
+    left: 5%;
+    top: 110px;
+}
+.jie p{
+    position: relative;
+}
+.jie p::after{
+    content: "服务介绍";
+    color: white;
+    margin-left: 7%;
+    /* padding-left: 5%; */
+}
+.jie p span::after{
+    content: "→";
+    position: absolute;
+    left: 80%;
+    font-size: 25px;
+    font-weight: bold;
+}
+.jie ul li{
+    width: 50%;
+    float: left;
+    list-style: none;
+    position: relative;
+}
+.jie ul li a{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background: #e5e5e5;
+    color: #666666;
+    text-decoration: none;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+}
+.jie ul li img{
+    position: absolute;
+    left: 15%;
+    top: 15%;
+}
+
+.diyi{
+    width: 100%;
+    position: absolute;
+}
+.diyi ul li{
+    float: left;
+    display: inline-block;
+}
+.diyi ul{
+    /* position: absolute; */
+    /* left: 400px; */
+    margin-left: 400px;
+}
+.diyi ul li a{
+    width: 100%;
+    display: inline-block;
+    line-height: 60px;
+}
