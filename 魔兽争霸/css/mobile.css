@@ -1,0 +1,519 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.center{
+    height: 450px;
+}
+.chong p{
+    font-size: 18px;
+    color: white;
+}
+.chong span{
+    font-size: 30px;
+    color: white;
+}
+
+.chong button{
+    width: 2.91rem;
+    height: 55px;
+    background-image: linear-gradient(rgba(255,255,0,.2) 50%,transparent 50%),linear-gradient(#ffd155,#dca60d);
+    color: #33261c;
+    font-weight: 700;
+    line-height: 1;
+    border-radius: 2px;
+    cursor: pointer;
+    border:2px solid #000;
+    font-size: 24px;
+    margin-top: .5rem;
+}
+.mu h1{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    line-height: 60px;
+    font-size: 25px;
+    padding: 10px 0;
+}
+.tupiao{
+    /* display: block; */
+    width: 3.75rem;
+    height: 30px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/F81UOLL3GFU11540740473854.png);
+    background-size: 100% 100%;
+    /* text-align: center; */
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.chang div img{
+    width: 100%;
+}
+.mu ul{
+    float: right;
+    padding-right: 0;
+}
+.mu ul li{
+    padding-right: .9rem;
+}
+.mu ul li b{
+    font-weight: 200;
+    font-size: 10px;
+}
+.mu{
+    width: 100%;
+    height: 100%;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/pre-purchase-768.jpg) no-repeat;
+    background-size: 100% 100%;
+    padding: 80px 40px 125px 40px;
+    box-sizing: border-box;
+}
+.juzhong{
+    width:90%;
+    /* height: 800px; */
+    margin: 0 auto;
+    display: flex;
+}
+.juzhong div{
+    flex: 1;
+}
+.kao{
+    width: 100%;
+}
+
+.kaoimg{
+    width: 100%;
+    padding-top: .5rem;
+}
+.kaoimg img{
+    width: 60%;
+} 
+.kaoimg span{
+    display: block;
+    text-align: center;
+    font-size: 10px;
+}
+.youxi{
+    width: 100%;
+    height: 100%;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/9MKZU08H1T6Y1540568561157.jpg) no-repeat;
+    background-size: 250% 100%;
+}
+.juzhong{
+    width:90%;
+    /* height: 800px; */
+    margin: 0 auto;
+    /* display: flex; */
+}
+.kao{
+    width: 200%;
+}
+.kao img{
+    width: 100%;
+    padding:0;
+}
+.times{
+    display: none;
+}
+.kaoimg span{
+    display: block;
+    font-size: 20px;
+    color: #D9D3C3;
+    text-align: center;
+}
+.kaoimg ul li h2{
+    font-size: 18px;
+}
+.kaoimg span{
+    padding: 0;
+}
+.sala{
+    font-size: 14px;
+    padding-left: 0;
+}
+.kaoimg{
+    padding-bottom: .5rem;
+}
+.tus{
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    height: 30px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/F81UOLL3GFU11540740473854.png) no-repeat;
+    background-size: 100% 100%;
+}
+.aize p{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 14px;
+    color: #f8b700;
+    line-height:1em;
+    font-weight: 700;
+}
+.aize h2{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 15px 0;
+    font-weight: 400;
+}
+.aize h5{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 13px;
+    color: #d9d3c3;
+    box-sizing: border-box;
+    font-weight: 400;
+    padding:0 15px;
+}
+.tiims{
+    padding: 20px 0;
+}
+.kaoimg ul li h2{
+    font-size: 17px;
+}
+.kaoimg ul li p{
+    font-size: 12px;
+}
+.omds{
+    display: block;
+}
+.omds div{
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
+    margin-left: 50px;
+}
+.omds div{
+    padding:10px 0 10px 0;
+}
+.omds div:nth-child(3){
+    padding-top: 10px;
+}
+.omds div:nth-child(4){
+    padding-top: 10px;
+}
+.omds div img{
+    width: 100%;
+    border: 2px solid #cccccc;
+}
+.sxcv{
+    width: 100%;
+    height: 30px;
+    background:url(https://blz.nosdn.127.net/1/war3-website/home/F81UOLL3GFU11540740473854.png) no-repeat;
+    margin:0 auto;
+    background-size: 100% 100%;
+}
+.kaisx p{
+    font-size: 14px;
+}
+.kaisx h2{
+    font-size: 30px;
+}
+.zhaocha img{
+    width: 90%;
+    height: 60%;
+    padding-left: 5%;
+}
+.zhaocha{
+    width: 100%;
+    height: 100%;
+}
+.kasha{
+    top: 350px;
+}
+.chaunqi{
+    height: 1000px;
+}
+.kasha span{
+    font-size: 15px;
+}
+.kasha ul li p{
+    font-size: 15px;
+}
+.ximd ul li{
+    float: none;     
+}
+.ximd span{
+    padding-left: 30px;
+}
+.hundun {
+    height: 800px;
+    background-size:  600px 800px;
+
+}
+.aers{
+    width: 100px;
+    height: 100px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/4XRBECU0EE131540417425395.jpg) no-repeat;
+    background-size:470px 470px;
+    background-position: 0 0;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 1px solid #f6f6f6;
+}
+.aers1{
+    width: 100px;
+    height: 100px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/4XRBECU0EE131540417425395.jpg) no-repeat;
+    background-size:470px 470px;
+    background-position: -120px 0;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 1px solid #f6f6f6;
+}
+.aers2{
+    width: 100px;
+    height: 100px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/4XRBECU0EE131540417425395.jpg) no-repeat;
+    background-size:470px 470px;
+    background-position: -240px 0;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 1px solid #f6f6f6;
+}
+.aers3{
+    width: 100px;
+    height: 100px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/4XRBECU0EE131540417425395.jpg) no-repeat;
+    background-size:470px 470px;
+    background-position: -350px 0;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 1px solid #f6f6f6;
+}
+.ximd ul li{
+    position: relative;
+    left: -100px;
+}
+.ximd ul li a{
+    width: 2rem;
+    position: absolute;
+    top: 40px;
+    left:3rem;
+}
+
+
+
+.hundun1 {
+    height: 820px;
+    background-size: 1000px 820px;
+
+}
+.ximd1 span{
+    padding-left:17px;
+}
+.ximd1 ul li{
+    position: relative;
+    left: -0px;
+}
+.ximd1 ul li a{
+    width: 2rem;
+    position: absolute;
+    top: 40px;
+    left: -1.9rem;
+}
+.aers{
+    width: 100px;
+    height: 100px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/4XRBECU0EE131540417425395.jpg) no-repeat;
+    background-size:470px 470px;
+    background-position: 0 0;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 1px solid #f6f6f6;
+}
+.aers1{
+    width: 100px;
+    height: 100px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/4XRBECU0EE131540417425395.jpg) no-repeat;
+    background-size:470px 470px;
+    background-position: -120px 0;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 1px solid #f6f6f6;
+}
+.aers2{
+    width: 100px;
+    height: 100px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/4XRBECU0EE131540417425395.jpg) no-repeat;
+    background-size:470px 470px;
+    background-position: -240px 0;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 1px solid #f6f6f6;
+}
+.aers3{
+    width: 100px;
+    height: 100px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/4XRBECU0EE131540417425395.jpg) no-repeat;
+    background-size:470px 470px;
+    background-position: -350px 0;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 1px solid #f6f6f6;
+}
+.gallery-thumbs .swiper-slide{
+    width:70px !important;
+    height: 70px !important;
+    opacity: 1 !important;
+    margin-left: 20px;
+    /* padding-left: 100px; */
+    /* margin-left: 160px; */
+    box-sizing: border-box;
+    border-radius: 50% !important; 
+}
+.gallery-top .swiper-slide{
+    height: 250px;
+}
+.swiper-button-next{
+    margin-top: -55px !important;
+}
+.swiper-button-prev{
+    margin-top: -55px !important;
+}
+.lunbo{
+    height: 382px;
+}
+.hanchang p{
+    padding-top:83px;
+}
+.gallery-thumbs .swiper-wrapper .swiper-slide:nth-of-type(1){
+    background-position: -6px -205px !important;
+}
+.gallery-thumbs .swiper-wrapper .swiper-slide:nth-of-type(2){
+    background-position: 275px -207px !important;
+}
+.gallery-thumbs .swiper-wrapper .swiper-slide:nth-of-type(3){
+    background-position: 185px -202px !important;
+}
+.gallery-thumbs .swiper-wrapper .swiper-slide:nth-of-type(4){
+    background-position: 91px -205px !important;
+}
+.hanchang h1{
+    font-size: 30px;
+}
+.hanchang p{
+    font-size: 18px;
+}
+.hanchang h5{
+    font-size: 15px;
+}
+.kog{
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 1.1rem;
+    display: inline-block;
+    font-size: 20px;
+}
+.jians{
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 1.43rem;
+    display: inline-block;
+    font-size: 20px;
+}
+.niu{
+    color: white;
+    position: absolute;
+    top: 0;
+    left: .9rem;
+    display: inline-block;
+    font-size: 20px;
+}
+.sheng{
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 1.22rem;
+    display: inline-block;
+    font-size: 20px;
+}
+.yingxiong .swiper-slide h4{
+    color: white;
+    position: absolute;
+    top: .5rem;
+    left:1.5rem;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.tingcong h1{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 400;
+    padding-top: 160px;
+}
+.tingcong h2{
+    color:#F8B700;
+    text-align: center;
+    font-size: 14px;
+    padding: 10px 0;
+}
+.tingcong button{
+    display: block;
+    width: 250px;
+    height: 60px;
+    color: #33261C;
+    font-weight: 700;
+    box-sizing: border-box;
+    padding: 0 75px;
+    font-size: 22px;
+    background-image: linear-gradient(rgba(255,255,0,.2) 50%,transparent 50%),linear-gradient(#ffd155,#dca60d);
+    border: 2px solid #000;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.weibo{
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-left: 1.9rem;
+}
+.weibo a:nth-child(1){
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/social_icon.png) no-repeat;
+    background-size: 135px 64px;
+    padding-left: 10px;
+    margin-top:.3rem;
+    opacity: .5;
+}
+.weibo a:nth-child(2){
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    background: url(https://blz.nosdn.127.net/1/war3-website/home/social_icon.png) no-repeat;
+    background-size: 135px 64px;
+    background-position: -64px 0;
+    margin-top:.3rem;
+    opacity: .5;
+    margin: 0 auto;
+}
+.zaixian ul{
+    list-style: none;
+    color: rgba(255, 255, 255, .7);
+    /* box-sizing: border-box; */
+    padding-left: 1rem;
+}
+.zaixian ul li{
+    display: inline-block;
+    padding-left: .4rem;
+    padding-top: .2rem;
+    padding-bottom:.5rem;
+    font-size: 14px;
+}
+.zaixian ul li:nth-last-of-type(5){
+    display: none;
+}
+.zaixian ul li:nth-last-of-type(6){
+    display: none;
+}
+.jieshu h1{
+    font-size: 25px;
+    padding-top: 20px;
+}
